@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1595909055 source:c:\users\churi\desktop\codeblock\pilas_ejec_12\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"time.h"
+	"conio.h"
+
+1490112217 c:\users\churi\desktop\codeblock\pilas_ejec_12\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\churi\desktop\codeblock\pilas_ejec_12\pila.c
+	"pila.h"
+

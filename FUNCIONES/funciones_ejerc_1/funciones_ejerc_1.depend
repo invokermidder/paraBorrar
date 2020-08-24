@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\churi\desktop\codeblock\funciones_ejerc_1\pila.c
+	"pila.h"
+
+1490112217 c:\users\churi\desktop\codeblock\funciones_ejerc_1\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1596417884 source:c:\users\churi\desktop\codeblock\funciones_ejerc_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112217 source:c:\users\churi\desktop\codeblock\funciones\funciones_ejerc_1\pila.c
+	"pila.h"
+
+1490112217 c:\users\churi\desktop\codeblock\funciones\funciones_ejerc_1\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1596557327 source:c:\users\churi\desktop\codeblock\funciones\funciones_ejerc_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<time.h>
+

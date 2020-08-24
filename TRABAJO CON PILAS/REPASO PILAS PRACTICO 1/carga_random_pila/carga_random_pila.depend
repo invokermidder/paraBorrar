@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\churi\desktop\codeblock\carga_random_pila\pila.c
+	"pila.h"
+
+1490112217 c:\users\churi\desktop\codeblock\carga_random_pila\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1595643899 source:c:\users\churi\desktop\codeblock\carga_random_pila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"time.h"
+

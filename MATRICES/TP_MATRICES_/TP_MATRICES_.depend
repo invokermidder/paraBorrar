@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1598068245 source:c:\users\churi\desktop\codeblock\matrices\tp_matrices_\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+

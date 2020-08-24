@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\churi\desktop\codeblock\funciones\intento_de_switch\pila.c
+	"pila.h"
+
+1490112217 c:\users\churi\desktop\codeblock\funciones\intento_de_switch\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1596602081 source:c:\users\churi\desktop\codeblock\funciones\intento_de_switch\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<time.h>
+

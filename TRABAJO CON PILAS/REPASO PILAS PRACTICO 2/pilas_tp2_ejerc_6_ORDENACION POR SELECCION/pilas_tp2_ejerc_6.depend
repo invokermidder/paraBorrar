@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\churi\desktop\codeblock\pilas_tp2_ejerc_6\pila.c
+	"pila.h"
+
+1490112217 c:\users\churi\desktop\codeblock\pilas_tp2_ejerc_6\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1596216716 source:c:\users\churi\desktop\codeblock\pilas_tp2_ejerc_6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<time.h>
+
+1490112217 source:c:\users\churi\desktop\codeblock\repaso pilas practico 2\pilas_tp2_ejerc_6_ordenacion por seleccion\pila.c
+	"pila.h"
+
+1490112217 c:\users\churi\desktop\codeblock\repaso pilas practico 2\pilas_tp2_ejerc_6_ordenacion por seleccion\pila.h
+	<stdio.h>
+	<malloc.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1596241272 source:c:\users\churi\desktop\codeblock\pilas_tp2_ejerc_7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"time.h"
+
+1490112217 source:c:\users\churi\desktop\codeblock\pilas_tp2_ejerc_7\pila.c
+	"pila.h"
+
+1490112217 c:\users\churi\desktop\codeblock\pilas_tp2_ejerc_7\pila.h
+	<stdio.h>
+	<malloc.h>
+
