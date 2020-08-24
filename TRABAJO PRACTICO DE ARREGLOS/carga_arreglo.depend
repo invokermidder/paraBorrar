@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1597156679 source:c:\users\churi\desktop\codeblock\arreglos\carga_arreglo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"pila.h"
+	<string.h>
+
+1490112217 source:c:\users\churi\desktop\codeblock\arreglos\carga_arreglo\pila.c
+	"pila.h"
+
+1490112217 c:\users\churi\desktop\codeblock\arreglos\carga_arreglo\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\churi\desktop\codeblock\arreglos\trabajo practico de arreglos\pila.c
+	"pila.h"
+
+1490112217 c:\users\churi\desktop\codeblock\arreglos\trabajo practico de arreglos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1597985758 source:c:\users\churi\desktop\codeblock\arreglos\trabajo practico de arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"pila.h"
+	<string.h>
+	<windows.h>
+
