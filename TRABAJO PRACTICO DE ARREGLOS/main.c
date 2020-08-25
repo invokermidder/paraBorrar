@@ -5,7 +5,7 @@
 #include <string.h>
 #include <windows.h>
 int menu();
-int menuEjercicioSeis();
+int menuEjercicioSeis(); /// Submenu ejercicio 6 //
 
 int carga_arreglo(int A[], int dimension);
 void muestra_arreglo (int A[],int dim);
